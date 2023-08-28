@@ -1,6 +1,6 @@
-# BharatIntern Projects For Machine Learning : House Price and Wine Quality Prediction
+# BharatIntern Projects:
 
-Welcome to the BharatIntern repository containing two insightful machine learning projects: House Price Prediction and Wine Quality Prediction. These projects showcase predictive modeling using carefully curated datasets sourced from Kaggle, and provide a valuable learning resource for those interested in data analysis, feature engineering, and machine learning techniques.
+Welcome to the BharatIntern repository containing two insightful machine learning projects and Data Science projects: These projects showcase predictive modeling using carefully curated datasets sourced from Kaggle, and provide a valuable learning resource for those interested in data analysis, feature engineering, and machine learning techniques.
 
 ## Project Descriptions
 
@@ -11,6 +11,10 @@ Predicting house prices is a fundamental challenge in real estate. This project 
 ### 2. Wine Quality Prediction
 
 Wine quality assessment is often a complex task that requires understanding the relationships between different chemical properties and the perceived quality of the wine. In this project, we explore the fascinating realm of wine quality prediction using machine learning algorithms. By analyzing a comprehensive set of wine characteristics, we aim to build models that can predict the quality of wines, helping enthusiasts and connoisseurs make informed decisions.
+
+### 3. Stock Prediction
+
+This data science project focuses on predicting stock prices using the power of deep learning and LSTM networks. The project utilizes historical stock price data obtained from Kaggle to build and train an LSTM model that can forecast future stock prices with a high degree of accuracy.
 
 ## Datasets
 
