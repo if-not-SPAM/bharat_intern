@@ -22,7 +22,7 @@ A machine learning model on the Titanic dataset to predict whether a passenger o
 
 ## Datasets
 
-Both projects utilize datasets collected from Kaggle, a prominent platform for data science competitions and collaboration. The datasets used in these projects are well-preprocessed and relevant to the specific problem domains. The data exploration and preprocessing steps are thoroughly documented in the project notebooks, providing valuable insights into the process of transforming raw data into actionable information.
+The datasets used in these projects are well-preprocessed and relevant to the specific problem domains. The data exploration and preprocessing steps are thoroughly documented in the project notebooks, providing valuable insights into the process of transforming raw data into actionable information. The files for datasets are also attached for clearity. 
 
 ## Usage
 
