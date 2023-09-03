@@ -16,6 +16,10 @@ Wine quality assessment is often a complex task that requires understanding the 
 
 This data science project focuses on predicting stock prices using the power of deep learning and LSTM networks. The project utilizes historical stock price data obtained from Kaggle to build and train an LSTM model that can forecast future stock prices with a high degree of accuracy.
 
+### 4. Titanic Classification
+
+A machine learning model on the Titanic dataset to predict whether a passenger on the Titanic would have been survived or not using the passenger data. For this project, classification algorithm like Logistic Regression , accuracy_score and train_test_split to split the data into train/ test to check and avoid overfitting has been used .
+
 ## Datasets
 
 Both projects utilize datasets collected from Kaggle, a prominent platform for data science competitions and collaboration. The datasets used in these projects are well-preprocessed and relevant to the specific problem domains. The data exploration and preprocessing steps are thoroughly documented in the project notebooks, providing valuable insights into the process of transforming raw data into actionable information.
